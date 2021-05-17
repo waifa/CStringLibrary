@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> 
 
 void capitalize(char* string){
     string[0] = 'A';
